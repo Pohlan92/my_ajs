@@ -1,0 +1,28 @@
+{
+  "name": "@joynie12/ajs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "publishConfig": {
+    "registry":"https://npm.pkg.github.com/"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Joynie12/ajs"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://github.com/Joynie12/Platforms#readme",
+  "dependencies": {
+    "@babel/cli": "^7.21.0",
+    "@babel/core": "^7.21.4",
+    "@babel/preset-env": "^7.21.4",
+    "babel-loader": "^9.1.2",
+    "webpack": "^5.78.0",
+    "webpack-cli": "^5.0.1"
+  }
+}
