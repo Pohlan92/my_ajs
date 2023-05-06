@@ -1,10 +1,10 @@
 {
-  "name": "@joynie12/ajs",
+  "name": "@Pohlan92/my_ajs",
   "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/"
+    "registry": "https://npm.pkg.github.com/"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -12,11 +12,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Joynie12/ajs"
+    "url": "git+https://github.com/Pohlan92/my_ajs"
   },
   "author": "",
   "license": "ISC",
-  "homepage": "https://github.com/Joynie12/Platforms#readme",
+  "homepage": "https://github.com/Pohlan92/my_ajs#readme",
   "dependencies": {
     "@babel/cli": "^7.21.0",
     "@babel/core": "^7.21.4",
